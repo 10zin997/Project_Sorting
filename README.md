@@ -1,6 +1,5 @@
-# Project_Sorting
-
-Write a complete program to collect statistics on a series of sorts.
+# DATA Structure Project 1
+## Sorting - collecting stats and counts using sorting algorithms.
 
 The main program will continue the following until the end of the set of data...
 
